@@ -1,0 +1,11 @@
+{
+  "title": "Student Personal Dashboard",
+  "description": "A local-first dashboard for study, habits, projects, and personal progress.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

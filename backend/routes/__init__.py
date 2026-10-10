@@ -1,0 +1,13 @@
+﻿from routes.daily import router as daily_router
+from routes.analytics import router as analytics_router
+from routes.activities import router as activities_router
+from routes.tasks import router as tasks_router
+from routes.diary import router as diary_router
+from routes.dsa import router as dsa_router
+from routes.communication import router as communication_router
+from routes.growth import router as growth_router
+from routes.planning import router as planning_router
+from routes.settings import router as settings_router
+from routes.search import router as search_router
+from routes.export import router as export_router
+from routes.admin import router as admin_router

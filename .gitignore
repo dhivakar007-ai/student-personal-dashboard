@@ -1,0 +1,36 @@
+# Local desktop builds and generated resources
+/desktop-build/
+/desktop-build-local/
+**/node_modules/
+**/dist/
+**/build/
+**/venv/
+**/__pycache__/
+**/.pytest_cache/
+**/*.py[cod]
+**/*.log
+
+# Personal data and local configuration
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+**/backups/
+**/.env
+**/.env.*
+
+# Alternate prototypes and generated Figma workspace files
+/frontend/
+/figma update/
+/backup_pre_figma_integration/
+/backend/build_models.py
+/backend/build_schemas.py
+/backend/make_dirs.py
+/backend/temp_*.py
+/backend/write_database.py
+/backend/test_e2e_verification.py
+/Premium Productivity Application/AGENTS.md
+/Premium Productivity Application/CLAUDE.md
+/Premium Productivity Application/.figma/*
+!/Premium Productivity Application/.figma/make/
+/Premium Productivity Application/.figma/make/*
+!/Premium Productivity Application/.figma/make/site.json
