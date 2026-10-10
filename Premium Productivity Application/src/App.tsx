@@ -223,7 +223,7 @@ function Header({
     <header className="dashboard-header">
       <div>
         <div className="eyebrow">
-          <Flower size={13} /> God of Don CORE CONTROL
+          <Sparkles size={13} /> STUDENT PERSONAL DASHBOARD
         </div>
         <div className="greeting">{greeting}</div>
         <div className="date-line" style={{ display: "flex", alignItems: "center", gap: "10px", marginTop: "6px" }}>
